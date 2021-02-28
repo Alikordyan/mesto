@@ -32,7 +32,7 @@
 @import url(../blocks/profile/__avatar/profile__avatar.css);
 @import url(../blocks/profile/__add-button/profile__add-button.css);
 
-/*блок секции Elements */
+/*блок секции Elements_ */
 @import url(../blocks/Elements/Elements.css);
 @import url(../blocks/Elements/__title/Elements__title.css);
 @import url(../blocks/Elements/__like/Elements__like.css);
