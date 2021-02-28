@@ -32,13 +32,13 @@
 @import url(../blocks/profile/__avatar/profile__avatar.css);
 @import url(../blocks/profile/__add-button/profile__add-button.css);
 
-/*блок секции places */
-@import url(../blocks/places/places.css);
-@import url(../blocks/places/__title/places__title.css);
-@import url(../blocks/places/__like/places__like.css);
-@import url(../blocks/places/__image/places__image.css);
-@import url(../blocks/places/__desc/places__desc.css);
-@import url(../blocks/places/__card/places__card.css);
+/*блок секции Elements */
+@import url(../blocks/Elements/Elements.css);
+@import url(../blocks/Elements/__title/Elements__title.css);
+@import url(../blocks/Elements/__like/Elements__like.css);
+@import url(../blocks/Elements/__image/Elements__image.css);
+@import url(../blocks/Elements/__desc/Elements__desc.css);
+@import url(../blocks/Elements/__card/Elements__card.css);
 
 /* Блок секции footer */
 @import url(../blocks/footer/footer.css);
