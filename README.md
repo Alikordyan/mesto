@@ -1,4 +1,4 @@
-# MESTO - https://zajcevakaterina.github.io/mesto/index.html
+# MESTO - https://alikordyan.github.io/mesto/.
 ## Автор проекта - Алик Ордян.
 
 ## Содержание проекта
