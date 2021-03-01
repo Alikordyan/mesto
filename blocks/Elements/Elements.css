@@ -1,4 +1,4 @@
-.Elements {
+.elements {
   display: grid;
   grid-template-columns: repeat(auto-fit, 282px);
   row-gap: 20px;
@@ -8,8 +8,9 @@
   margin: auto;
 }
 
+
 @media screen and (min-width: 768px) {
-  .Elements {
+  .elements {
     row-gap: 21px;
     padding-bottom: 66px;
   }
