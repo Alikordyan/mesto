@@ -11,7 +11,8 @@
 
 @media screen and (min-width: 1024px) {
   .width {
-    width: calc(100% - 390px);
+    width: calc(100% - 350px);
+    
   }
 }
 
